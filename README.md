@@ -8,7 +8,6 @@
   <p>Automação, observabilidade e gerenciamento de ambientes cloud.<br />
   Interesses em soluções cloud-native, CI/CD e infraestrutura como código.</p>
 </div>
-<br />
 
 <!-- STACK TECNOLÓGICO -->
 <h3 align="center">🛠️ Tecnologias & Ferramentas</h3>

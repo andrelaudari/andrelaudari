@@ -38,7 +38,7 @@
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andrelaudari/andrelaudari/main/github-metrics.svg" alt="Métricas André Laudari" width="80%" />
+  <img src="https://raw.githubusercontent.com/andrelaudari/andrelaudari/main/github-metrics.svg" alt="Métricas André Laudari" width="60%" />
 </div>
 
 <br />

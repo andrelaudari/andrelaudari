@@ -5,11 +5,9 @@
 
 ---
 
-### 👨‍💻 Sobre mim
-
-- 🔭 Atualmente focado em **Cloud Infrastructure, Kubernetes & DevOps**.
-- 🛠️ Trabalhando com automação, observabilidade e gerenciamento de ambientes cloud.
-- ⚡ Interesses em soluções cloud-native, CI/CD e infraestrutura como código.
+- **Cloud Infrastructure, Kubernetes & DevOps**.
+- Automação, observabilidade e gerenciamento de ambientes cloud.
+- Interesses em soluções cloud-native, CI/CD e infraestrutura como código.
 
 ---
 

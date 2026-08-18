@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=André%20Laudari&fontSize=35&animation=fadeIn" width="100%"/>
 </div>
-
 <br />
 
 <!-- SOBRE MIM -->
@@ -11,12 +10,10 @@
   <p>Automação, observabilidade e gerenciamento de ambientes cloud.<br />
   Interesses em soluções cloud-native, CI/CD e infraestrutura como código.</p>
 </div>
-
 <br />
 
 <!-- STACK TECNOLÓGICO -->
 <h3 align="center">🛠️ Tecnologias & Ferramentas</h3>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -31,21 +28,17 @@
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
-
 <br />
 
 <!-- ESTATÍSTICAS -->
 <h3 align="center">📊 Estatísticas do GitHub</h3>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/andrelaudari/andrelaudari/main/github-metrics.svg" alt="Métricas André Laudari" width="60%" />
 </div>
-
 <br />
 
 <!-- COBRINHA / CONTRIBUIÇÕES -->
 <h3 align="center">🎮 Gráfico de Contribuições</h3>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrelaudari/andrelaudari/output/github-snake-dark.svg">

@@ -27,8 +27,7 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrelaudari&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="Estatísticas André" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelaudari&layout=compact&theme=tokyonight" height="160" alt="Linguagens André" />
+  <img src="https://raw.githubusercontent.com/andrelaudari/andrelaudari/main/github-metrics.svg" alt="Métricas André Laudari" width="100%" />
 </div>
 
 ---

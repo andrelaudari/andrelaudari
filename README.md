@@ -23,11 +23,15 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrelaudari&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrelaudari&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+
+| 🚀 Contribuições | 💻 Linguagens Principais |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats-api-fork.vercel.app/api?username=andrelaudari&show_icons=true&theme=tokyonight&count_private=true&hide_border=true) | ![Langs](https://github-readme-stats-api-fork.vercel.app/api/top-langs/?username=andrelaudari&layout=compact&theme=tokyonight&hide_border=true) |
+
 </div>
 
 ---

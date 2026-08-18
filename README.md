@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=André%20Laudari&fontSize=35&animation=fadeIn" width="100%"/>
 </div>
-<br />
 
 <!-- SOBRE MIM -->
 <div align="center">

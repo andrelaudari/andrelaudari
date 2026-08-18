@@ -23,6 +23,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+![Google Cloud](https://shields.io) ![IBM Cloud](https://shields.io) ![Kubernetes](https://shields.io) ![Docker](https://shields.io) ![Linux](https://shields.io) ![Bash](https://shields.io) ![OCI](https://shields.io) ![Dynatrace](https://shields.io) ![Python](https://shields.io) ![Git](https://shields.io)
+
+
 ---
 
 ### 📊 Estatísticas do GitHub

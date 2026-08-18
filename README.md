@@ -32,3 +32,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=andrelaudari&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="Estatísticas André" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andrelaudari&layout=compact&theme=tokyonight" height="150" alt="Linguagens André" />
 </div>
+
+---
+
+### 🎮 Gráfico de Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrelaudari/andrelaudari/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrelaudari/andrelaudari/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/andrelaudari/andrelaudari/output/github-snake.svg">
+</picture>

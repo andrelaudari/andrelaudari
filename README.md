@@ -23,14 +23,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrelaudari&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="Estatísticas André" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andrelaudari&layout=compact&theme=tokyonight" height="150" alt="Linguagens André" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrelaudari&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelaudari&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
 </div>
 
 ---

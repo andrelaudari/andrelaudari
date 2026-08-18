@@ -4,7 +4,7 @@
 </div>
 <!-- SOBRE MIM -->
 <div align="center">
-  <p><strong>Cloud Infrastructure, Kubernetes & DevOps</strong>
+  <strong>Cloud Infrastructure, Kubernetes & DevOps</strong>
   <p>Automação, observabilidade e gerenciamento de ambientes cloud.<br />
   Interesses em soluções cloud-native, CI/CD e infraestrutura como código.</p>
 </div>

@@ -24,9 +24,11 @@
 
 ---
 
+---
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrelaudari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelaudari&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrelaudari&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="Estatísticas André" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andrelaudari&layout=compact&theme=tokyonight" height="150" alt="Linguagens André" />
 </div>

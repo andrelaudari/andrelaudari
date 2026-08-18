@@ -30,7 +30,7 @@
 <!-- ESTATÍSTICAS -->
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andrelaudari/andrelaudari/main/github-metrics.svg" alt="Métricas André Laudari" width="60%" />
+  <img src="https://raw.githubusercontent.com/andrelaudari/andrelaudari/main/github-metrics.svg" alt="Métricas André Laudari" width="50%" />
 </div>
 
 <!-- COBRINHA / CONTRIBUIÇÕES -->

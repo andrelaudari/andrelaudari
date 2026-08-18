@@ -27,11 +27,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-
-| 🚀 Contribuições | 💻 Linguagens Principais |
-| :---: | :---: |
-| ![Stats](https://github-readme-stats-api-fork.vercel.app/api?username=andrelaudari&show_icons=true&theme=tokyonight&count_private=true&hide_border=true) | ![Langs](https://github-readme-stats-api-fork.vercel.app/api/top-langs/?username=andrelaudari&layout=compact&theme=tokyonight&hide_border=true) |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=andrelaudari&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="Estatísticas André" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelaudari&layout=compact&theme=tokyonight" height="160" alt="Linguagens André" />
 </div>
 
 ---

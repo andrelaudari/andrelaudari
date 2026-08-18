@@ -32,7 +32,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/andrelaudari/andrelaudari/main/github-metrics.svg" alt="Métricas André Laudari" width="60%" />
 </div>
-<br />
 
 <!-- COBRINHA / CONTRIBUIÇÕES -->
 <h3 align="center">🎮 Gráfico de Contribuições</h3>

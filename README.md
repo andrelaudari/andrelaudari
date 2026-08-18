@@ -26,8 +26,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrelaudari&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelaudari&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrelaudari&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andrelaudari&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 ---
